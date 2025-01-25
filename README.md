@@ -41,6 +41,6 @@
 ## 👩‍💻 สมาชิกกลุ่ม  
 - [Chonnikarn Sangwang](https://nixe97.github.io/boardgame.html) 
 - **Natnicha Nontraudon**  
-- **Supawadee Muangprasert**  
+- [Supawadee Muangprasert](https://donyweasley.github.io/boardgame/) 
 - **Jakapob Siwakulrangsun**  
 - **Tanatorn Jitsatsawan**
